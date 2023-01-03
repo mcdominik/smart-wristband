@@ -1,11 +1,15 @@
 #QUICK VIDEO PRESENTATION
 
-https://www.youtube.com/watch?v=GmlisaTb_-U
+https://user-images.githubusercontent.com/81818614/210391106-d3d0c602-21bc-4354-85ba-5c3722640c05.mp4
+
 
 ![Zrzut ekranu 2021-08-11 o 15 27 05](https://user-images.githubusercontent.com/81818614/129037838-e1e706d9-6105-4a35-827e-bb1f14ba1ea9.png)
 created 2 Jul 2021
 modified 6 Aug 2021
-by rydz99
+by mcdominik
+
+
+
 
 components:
 
